@@ -9,12 +9,12 @@ namespace ProfessionalVision.Controllers
     public class LoginController : Controller
     {
         /// <summary>
-        /// 
+        /// first comment
         /// </summary>
         /// <returns></returns>
         public IActionResult Index()
         {
             return View();
-        }  
+        }
     }
 }
